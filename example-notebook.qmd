@@ -2,10 +2,10 @@
 title: "example-notebook.qmd"
 format: html
 editor: visual
-autho: Emma 
+author: Emma H.
 --- 
 
-
+## Making a Demo 
 
 
 ## Quarto
