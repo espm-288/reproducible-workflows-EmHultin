@@ -3,9 +3,23 @@ title: "example-notebook.qmd"
 format: html
 editor: visual
 author: Emma H.
---- 
+---
 
-## Making a Demo 
+### Push to git
+
+Push works in the terminal as "git push", but NOT in the r gui 
+
+### Bad ways to start code
+
+These are dumb and not reproducible. You should be using project spaces!
+
+rm(list=ls()) 
+
+This does not actually clean out the stuff you think it does 
+
+setwd(blah blah blah)
+
+This only exists on your machine. Other people who try to use this will fail and it will be your fault
 
 
 ## Quarto
