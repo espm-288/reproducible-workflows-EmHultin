@@ -6,3 +6,5 @@ install.packages("yaml")
 install.packages("tidyverse")
 
 renv::snapshot()
+
+renv::init() #this is the technically correct way to do this first 
